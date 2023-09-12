@@ -1,6 +1,6 @@
 
 
-# Backend Capstone Project
+# RedBus-Clone
 1. First **install npm dependencies** of **express** and **mongoose** using `npm install` command.
 2. **Start the backend server** using `npm start` or `node src/index.js` command.
 3. **We are using MONGODB CLOUD for database**
