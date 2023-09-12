@@ -26,7 +26,6 @@ nodemon
 ```
 
 
-
-## Demo
-[Click here to Visit Site[]((https://backend-api-r2s4.onrender.com/).)]
+Deployed link of Backend
+Click the link - (https://backend-api-r2s4.onrender.com/).
 
